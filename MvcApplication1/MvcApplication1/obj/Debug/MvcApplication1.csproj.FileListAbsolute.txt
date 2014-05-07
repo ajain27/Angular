@@ -139,7 +139,6 @@ Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\Mv
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\bin\ru\System.Spatial.resources.dll
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\bin\zh-Hans\System.Spatial.resources.dll
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\bin\zh-Hant\System.Spatial.resources.dll
-Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.Migrations.InitialCreate.resources
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csproj.GenerateResource.Cache
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll

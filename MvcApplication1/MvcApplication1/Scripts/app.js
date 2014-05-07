@@ -37,11 +37,10 @@
         });
 
         var ListController = function ($scope, $location, Todo) {
+
             $scope.todoes = Todo.query();
+            $scope.Delete = function () {
 
-            $scope.Delete = function() {
-
-               
                 var itemId = this.todo.TodoItemId;
                 Todo.delete({ id: itemId });
                 $scope.todoes = Todo.query();
