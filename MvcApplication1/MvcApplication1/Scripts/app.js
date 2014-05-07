@@ -18,7 +18,7 @@
 
 });
 
-/////HELLLLOOOOOOs
+
 //TodoApp.controller('ListController', [
 //    '$scope', '$resource', function($scope, $resource) {
 //        var todoes = $resource('/api/Todo/:id', { id: "@id" }, {});
