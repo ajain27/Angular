@@ -1,12 +1,10 @@
-﻿<h2>{{action}} Todo !!!</h2>
-<form class="form-group container">
-    <div class="container">
-        <input type="text" ng-model="todo.Text"  placeholder="Todo"><br /><br />
-        <input type="text" ng-model="todo.Due" placeholder="DueDate"><br /><br />
-        <input type="number" ng-model="todo.Priority" placeholder="Priority"><br /><br />
-        
-        <button class="btn btn-primary" ng-click="save()"> {{action}}</button>
+﻿<h2>Add Todo!!</h2>
+<div class="container">
+    <input type="text" ng-model="todo.Text" placeholder="Todo"/> <br/><br />
+    <input type="text" ng-model="todo.DueDate" placeholder="Due Date" /> <br /><br />
+    <input type="number" ng-model="todo.Priority" placeholder="Priority" /> <br /><br />
+    
+    <button type="submit" class="btn btn-primary" ng-click="save()">{{action}}</button>
+    <button type="submit" class="btn btn-primary" ng-click="save()">Cancel</button>
 
-        <button class="btn btn-default"> Cancel</button>
-    </div>
-</form>
+</div>

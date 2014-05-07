@@ -15,7 +15,6 @@
       templateUrl: 'add.html',
       controller: 'EditController'
   });
-
 });
 
 
