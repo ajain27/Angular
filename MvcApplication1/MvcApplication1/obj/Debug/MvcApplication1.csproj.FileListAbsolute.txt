@@ -143,3 +143,4 @@ Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\Mv
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csproj.GenerateResource.Cache
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+Z:\Documents\Angular Project\MvcApplication1\MvcApplication10\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
